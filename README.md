@@ -106,3 +106,5 @@ El cuestionario **RA2 BDA** incluye 40 preguntas organizadas en 4 bloques:
 - Efectos visuales de celebración (confetti)
 - Persistencia de mejores puntuaciones
 - Modo de repaso de preguntas falladas
+
+Creado con licencia MIT por Borja Ramos con la ayuda de sus compañeros de IES Carlos III
