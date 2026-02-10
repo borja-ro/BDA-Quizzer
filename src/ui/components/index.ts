@@ -1,5 +1,7 @@
+export { Navbar } from './Navbar';
 export { HeroSection } from './HeroSection';
 export { BlockSelector } from './BlockSelector';
+export { CardCarousel } from './CardCarousel';
 export { QuizCard } from './QuizCard';
 export { OptionButton } from './OptionButton';
 export { ProgressBar } from './ProgressBar';
